@@ -28,3 +28,5 @@ printBoard(theBoard)
 
 print('Game over.')
 print("Thank you for playing!")
+
+print("This is a simple Tic-Tac-Toe game.")
