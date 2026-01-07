@@ -25,3 +25,5 @@ for i in range(9):
         turn = 'X'
 
 printBoard(theBoard)
+
+print('Game over.')
