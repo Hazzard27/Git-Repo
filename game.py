@@ -27,3 +27,4 @@ for i in range(9):
 printBoard(theBoard)
 
 print('Game over.')
+print("Thank you for playing!")
